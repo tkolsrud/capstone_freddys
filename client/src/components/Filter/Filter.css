@@ -1,0 +1,39 @@
+.div__select-filter {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    white-space: nowrap;
+    /* overflow-x:scroll; */
+    overflow-y: visible;
+    position: relative;
+    z-index: 30;
+    padding: 8px;
+    width: 25%;
+    margin-left: 25px;
+}
+
+select {
+    -webkit-appearnce: none;
+    appearance: none;
+    display: flex;
+    width: 200px;
+    border: none;
+    outline: none;
+    transition: ease-in-out;
+    transition-duration: 5s;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.select-guitar {
+    background-color: rgba(76, 69, 69, 0.437);
+    border: 1px solid rgba(129, 117, 117, 0.368);
+    padding: 9px;
+    font-weight: 600;
+    color: rgb(233, 223, 216);
+    font-family: 'Lato', sans-serif;
+}
+
+option:focus {
+    background-color:grey !important;
+}

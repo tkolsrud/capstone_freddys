@@ -1,0 +1,26 @@
+.card__a-index {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 25px;
+  border: 1px solid rgba(25, 24, 24, 0.772);
+  text-decoration: none !important;
+  color: rgb(233, 223, 216);
+  background-color:rgba(113, 104, 96, 0.32);
+  /* box-shadow: 2px 2px 2px rgba(175, 172, 172, 0.361); */
+}
+
+.card__a-index:hover {
+  color: rgb(233, 223, 216);
+  text-shadow: .15px .15px .25px;
+}
+
+img {
+    height: 200px;
+    width: 125px;
+    border-radius: 5px;
+    border: 1px solid rgba(25, 24, 24, 0.772);
+
+}
+

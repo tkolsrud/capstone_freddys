@@ -1,0 +1,10 @@
+.footer {
+    display: inline-flex;
+    flex-direction: row;
+    position: fixed;
+    width: 300%;
+    height: 80px;
+    bottom:0;
+    left: 0;
+    background-color: rgba(255, 128, 0, 0.861);
+ }

@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: none;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgba(255, 128, 0, 0.923);
+    width: 100vw;
+    color: rgb(205, 202, 200) !important;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.navlink {
+    color: rgb(231, 223, 217);
+    padding: 20px;
+}
+
+.navlink:hover {
+    color: rgb(231, 223, 217);
+    text-decoration: none;
+}
+
+#brand {
+    /* font-family: 'Satisfy', cursive; */
+    color: rgb(233, 223, 216);
+    font-family: 'Molle', cursive;
+    font-size: 25px;
+    font-weight: 500;
+}
+

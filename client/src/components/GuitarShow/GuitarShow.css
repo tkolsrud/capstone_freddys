@@ -1,0 +1,34 @@
+.body__show{
+    display:flex;
+    width: 100%;
+    min-height: 600px;;
+    justify-content: center;
+    align-items: center;
+}
+
+.div__guitarshow-card{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 25px;
+    border: 2px solid rgba(25, 24, 24, 0.772);
+    text-decoration: none !important;
+    color: rgb(233, 223, 216);
+    background-color:rgba(113, 104, 96, 0.32);
+}
+
+.button__guitarshow { 
+    width: 150px;
+    color: rgb(224, 210, 201);
+    background-color: rgb(30, 28, 28);
+    margin: 5px 10px;
+    padding: 10px;
+    border: 1px solid rgba(113, 104, 96, 0.32);
+    border-radius: 15px;
+}
+
+.button__guitarshow:hover {
+    color: rgb(233, 223, 216);
+    text-shadow: .15px .15px .25px;
+}

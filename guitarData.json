@@ -1,0 +1,40 @@
+{
+    "guitars": [
+        {
+            "model": "Les Paul",
+            "manufacturer": "Gibson",
+            "music_style": [
+                "Rock",
+                "Jazz",
+                "Metal",
+                "Blues",
+                "Country"
+            ],
+            "year": "1964",
+            "condition": "Used",
+            "img": "http://blog.bluehughmusic.com/wp-content/uploads/2012/12/002-1-2.jpg"
+        },
+        {
+            "model": "Stratocaster",
+            "manufacturer": "Fender",
+            "music_style": [
+                "Rock",
+                "Blues",
+                "Country"
+            ],
+            "year": "1969",
+            "condition": "Like New",
+            "img": "https://gbmedia.azureedge.net/aza/user/gear/1969-fender-stratocaster-sunburst-2-d6u6yU9.jpg?maxwidth=500"
+        },
+        {
+            "model": "Speed Flying V",
+            "manufacturer": "BC Rich",
+            "music_style": [
+                "Metal"
+            ],
+            "year": "2005",
+            "condition": "Worn",
+            "img": "https://photos.offerup.com/-IJSNN4N7slIu1pGP9E7pzh2sGg=/600x800/d537/d537b28fc6da4e61960915c1d9ce9616.jpg"
+        }
+    ]
+}
