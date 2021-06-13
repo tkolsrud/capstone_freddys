@@ -1,4 +1,4 @@
-const url = `http://localhost:4000/api/v1/guitars`;
+const url = process.env.MONGODB_URI;
 
 class GuitarModel {
     static all() {
